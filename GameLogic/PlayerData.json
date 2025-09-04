@@ -1,0 +1,40 @@
+{
+  "Gold": 250,
+  "Health": 80,
+  "MaxHealth": 100,
+  "Experience": 1234,
+  "MaxExperience": 1500,
+  "Level": 5,
+  "Equipment": {
+    "Weapon": {
+      "Name": "Меч супер",
+      "AttackBonus": 10
+    },
+    "Armor": {
+      "Name": "Кольчуга потертая",
+      "DefenseBonus": 5
+    }
+  },
+  "Items": [
+    {
+      "ItemName": "Зелье",
+      "Quantity": 3,
+      "Type": 0
+    },
+    {
+      "ItemName": "Эликсир",
+      "Quantity": 1,
+      "Type": 0
+    },
+    {
+      "ItemName": "Кольчуга",
+      "Quantity": 1,
+      "Type": 2
+    },
+    {
+      "ItemName": "Меч",
+      "Quantity": 1,
+      "Type": 1
+    }
+  ]
+}

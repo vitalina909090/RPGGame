@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUI", "GameUI\GameUI.csproj", "{FEF9D0B7-3D64-4A2D-8561-5DE9868D810E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "GameLogic\GameLogic.csproj", "{3E50B08C-F761-43F4-B9AA-26111F2F6B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSave", "GameSave\GameSave.csproj", "{79E3F2F5-2605-49B5-AF42-ADB5B8D88875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF9D0B7-3D64-4A2D-8561-5DE9868D810E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF9D0B7-3D64-4A2D-8561-5DE9868D810E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF9D0B7-3D64-4A2D-8561-5DE9868D810E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF9D0B7-3D64-4A2D-8561-5DE9868D810E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E50B08C-F761-43F4-B9AA-26111F2F6B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E50B08C-F761-43F4-B9AA-26111F2F6B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E50B08C-F761-43F4-B9AA-26111F2F6B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E50B08C-F761-43F4-B9AA-26111F2F6B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E3F2F5-2605-49B5-AF42-ADB5B8D88875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E3F2F5-2605-49B5-AF42-ADB5B8D88875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E3F2F5-2605-49B5-AF42-ADB5B8D88875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E3F2F5-2605-49B5-AF42-ADB5B8D88875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFC97EA4-CE1C-4394-8584-B6A6001AC36B}
+	EndGlobalSection
+EndGlobal
